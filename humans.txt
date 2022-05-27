@@ -1,0 +1,23 @@
+/* TEAM */
+Title: Web Taco Guy
+Site: https://tacos.zone
+Location: United States
+
+/* THANKS */
+Name: https://getbootstrap.com/
+For the CSS Framework
+
+Name: https://www.freepik.com 
+For the taco clipart
+
+Name: https://jakearchibald.github.io/svgomg/
+For SVG Optimization
+
+Name: https://www.favicon-generator.org/
+For favicon generation
+
+/* SITE */
+Last update: 2021/09/10
+Standards: HTML5, CSS3
+Components: Bootstrap
+Software: Illustrator, Atom Text Editor

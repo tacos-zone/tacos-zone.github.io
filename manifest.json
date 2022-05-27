@@ -1,0 +1,46 @@
+{
+  "background_color": "#2F2D2E",
+  "categories": ["food", "lifestyle", "entertainment", "navigation"],
+  "description": "The internet's greatest taco seach engine!",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [{
+      "src": "images/maskable_icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "images/splash-screen.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en",
+  "name": "tacos.zone",
+  "orientation": "any",
+  "scope": "/",
+  "screenshots": [{
+      "src": "/images/screenshot_mobile.png",
+      "type": "image/png",
+      "sizes": "750x1334"
+    },
+    {
+      "src": "/images/screenshot_desktop.png",
+      "type": "image/png",
+      "sizes": "1280x800"
+    }
+  ],
+  "short_name": "tacos.zone",
+  "shortcuts": [{
+    "name": "tacos.zone",
+    "description": "Search for tacos",
+    "url": "/",
+    "icons": [{
+      "src": "images/icons/72x72.png",
+      "type": "image/png"
+    }]
+  }],
+  "start_url": "/",
+  "theme_color": "#2F2D2E"
+}
